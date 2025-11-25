@@ -25,14 +25,15 @@ Basado en el análisis exploratorio:
 ##  Visualizaciones Destacadas
 
 ### Correlación de Variables
-![Heatmap](graficos/02_seaborn_heatmap_correlacion.png)
+<img width="1200" height="800" alt="02_seaborn_heatmap_correlacion" src="https://github.com/user-attachments/assets/e6349003-59e0-4669-94ba-81da361ad99f" />
 *Mapa de calor que evidencia la fuerte relación entre PIB, Apoyo Social y Felicidad.*
 
 ### PIB vs Felicidad
-![Scatterplot](graficos/03_seaborn_scatterplot_pib.png)
+<img width="1200" height="700" alt="03_seaborn_scatterplot_pib" src="https://github.com/user-attachments/assets/af274c6a-a9cf-4355-8e2c-d85f848ca913" />
+
 *Los países con mayor PIB se concentran exclusivamente en niveles de felicidad "Alta".*
 
-## 🚀 Cómo ejecutar este proyecto
+##  Cómo ejecutar este proyecto
 1. Clonar el repositorio.
 2. Instalar las dependencias:
    ```bash
@@ -44,4 +45,5 @@ Basado en el análisis exploratorio:
    ```
 
 Proyecto desarrollado como parte de la asignatura de Minería de Datos - Ingeniería en Informática.
+
 
